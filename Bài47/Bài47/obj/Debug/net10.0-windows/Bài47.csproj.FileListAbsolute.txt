@@ -1,0 +1,17 @@
+D:\Lam\Bài47\Bài47\bin\Debug\net10.0-windows\Bài47.exe
+D:\Lam\Bài47\Bài47\bin\Debug\net10.0-windows\Bài47.deps.json
+D:\Lam\Bài47\Bài47\bin\Debug\net10.0-windows\Bài47.runtimeconfig.json
+D:\Lam\Bài47\Bài47\bin\Debug\net10.0-windows\Bài47.dll
+D:\Lam\Bài47\Bài47\bin\Debug\net10.0-windows\Bài47.pdb
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.Form1.resources
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.csproj.GenerateResource.cache
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.AssemblyInfoInputs.cache
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.AssemblyInfo.cs
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.csproj.CoreCompileInputs.cache
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.dll
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\refint\Bài47.dll
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.pdb
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.genruntimeconfig.cache
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\ref\Bài47.dll
+D:\Lam\Bài47\Bài47\obj\Debug\net10.0-windows\Bài47.csproj.Up2Date
